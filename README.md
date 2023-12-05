@@ -1,6 +1,5 @@
 # 基于DETR和CRNN的车牌检测识别模型
-后端项目在main分支下，前端项目在master分支下
-打开后端工程文件detr-main
+后端项目在main分支下，前端项目在master分支下，首先打开后端工程文件detr-main
 ## 数据集
 本实验使用中科大的CCPD 2019开源数据集，数据集下载链接是：https://github.com/detectRecog/CCPD
 
